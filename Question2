@@ -1,0 +1,10 @@
+UNF DB(staffNo, dentistName, patientNo, patientName, apptDate, apptTime, surgeryNo)
+1NF DB(staffNo, dentistName, patientNo, patientName, apptDate, apptTime, surgeryNo)
+
+2NF DB(
+R1(
+R2(
+
+3NF DB(
+R1(
+R2(
